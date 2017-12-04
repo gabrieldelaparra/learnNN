@@ -1,0 +1,26 @@
+<annotation>
+	<folder>feria</folder>
+	<filename>92.jpg</filename>
+	<path>/home/clgadel/labeler/feria/92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>653</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>precio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>164</ymin>
+			<xmax>366</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
