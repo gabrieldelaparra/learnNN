@@ -1,0 +1,4 @@
+data/obj/224.jpg: Predicted in 7.583405 seconds.
+CARTEL FERIA: 91%
+CARTEL FERIA: 91%
+CARTEL FERIA: 92%

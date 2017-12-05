@@ -1,0 +1,2 @@
+data/obj/300.jpg: Predicted in 5.873516 seconds.
+CARTEL FERIA: 89%

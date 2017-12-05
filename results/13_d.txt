@@ -1,0 +1,5 @@
+data/obj/13.jpg: Predicted in 6.562885 seconds.
+CARTEL FERIA: 88%
+CARTEL FERIA: 72%
+CARTEL FERIA: 82%
+CARTEL FERIA: 86%
